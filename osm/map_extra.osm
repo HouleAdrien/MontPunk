@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-12-01T10:03:06Z"/>
+
+  <node id="888831734" lat="43.6101155" lon="3.8787473"/>
+  <node id="888832788" lat="43.6098369" lon="3.8787073"/>
+  <node id="888832839" lat="43.6098399" lon="3.8786813"/>
+  <node id="888833387" lat="43.6094470" lon="3.8784699"/>
+  <node id="888833686" lat="43.6098873" lon="3.8786775"/>
+  <node id="888833712" lat="43.6094792" lon="3.8784973"/>
+  <node id="888834109" lat="43.6097172" lon="3.8785672"/>
+  <node id="888834434" lat="43.6097041" lon="3.8786147"/>
+  <node id="888834498" lat="43.6101756" lon="3.8785900"/>
+  <node id="888835251" lat="43.6101522" lon="3.8787065"/>
+  <node id="888835279" lat="43.6101037" lon="3.8785557"/>
+  <node id="888835281" lat="43.6100971" lon="3.8787407"/>
+  <node id="888835641" lat="43.6096919" lon="3.8785516"/>
+  <node id="888835875" lat="43.6096764" lon="3.8786098"/>
+  <node id="888835883" lat="43.6094615" lon="3.8785384"/>
+  <node id="888836280" lat="43.6098812" lon="3.8787232"/>
+  <node id="888836309" lat="43.6094265" lon="3.8785082"/>
+  <node id="888836394" lat="43.6101006" lon="3.8787309"/>
+  <node id="888836548" lat="43.6100827" lon="3.8787342"/>
+  <node id="888836707" lat="43.6101179" lon="3.8787374"/>
+  <node id="888837111" lat="43.6101420" lon="3.8787575"/>
+  <node id="888988566" lat="43.6080911" lon="3.8753111"/>
+  <node id="888988698" lat="43.6088076" lon="3.8785478"/>
+  <node id="888990701" lat="43.6089930" lon="3.8784741"/>
+  <node id="888991487" lat="43.6089833" lon="3.8785414"/>
+  <node id="888993009" lat="43.6084746" lon="3.8785170"/>
+  <node id="888993038" lat="43.6089638" lon="3.8785142"/>
+  <node id="888993646" lat="43.6080004" lon="3.8782155"/>
+  <node id="888994723" lat="43.6080648" lon="3.8752721"/>
+  <node id="888994911" lat="43.6079817" lon="3.8782404"/>
+  <node id="888996350" lat="43.6087448" lon="3.8785308"/>
+  <node id="888998112" lat="43.6089936" lon="3.8785541"/>
+  <node id="888999170" lat="43.6090240" lon="3.8785015"/>
+  <node id="889000435" lat="43.6084361" lon="3.8785703"/>
+  <node id="889000485" lat="43.6080433" lon="3.8752987"/>
+  <node id="889001852" lat="43.6079554" lon="3.8782040"/>
+  <node id="889002167" lat="43.6080696" lon="3.8753369"/>
+  <node id="889007787" lat="43.6084018" lon="3.8785222"/>
+  <node id="889009274" lat="43.6084397" lon="3.8784698"/>
+  <node id="889010421" lat="43.6087803" lon="3.8785753"/>
+  <node id="889013306" lat="43.6087860" lon="3.8785808"/>
+  <node id="889013500" lat="43.6087711" lon="3.8784943"/>
+  <node id="889014489" lat="43.6079741" lon="3.8781792"/>
+  <node id="889415376" lat="43.6108735" lon="3.8787531"/>
+  <node id="889415955" lat="43.6121470" lon="3.8785159"/>
+  <node id="889416655" lat="43.6108068" lon="3.8785326"/>
+  <node id="889417922" lat="43.6108618" lon="3.8785972"/>
+  <node id="889418543" lat="43.6115937" lon="3.8786544"/>
+  <node id="889418739" lat="43.6119484" lon="3.8785050"/>
+  <node id="889419326" lat="43.6108804" lon="3.8785768"/>
+  <node id="889419436" lat="43.6109574" lon="3.8787783"/>
+  <node id="889419919" lat="43.6110015" lon="3.8786836"/>
+  <node id="889420409" lat="43.6121322" lon="3.8786307"/>
+  <node id="889421328" lat="43.6109155" lon="3.8788208"/>
+  <node id="889426412" lat="43.6120930" lon="3.8784738"/>
+  <node id="889426499" lat="43.6109422" lon="3.8788059"/>
+  <node id="889427162" lat="43.6119095" lon="3.8785269"/>
+  <node id="889428039" lat="43.6120501" lon="3.8785676"/>
+  <node id="889428268" lat="43.6119301" lon="3.8785461"/>
+  <node id="889430419" lat="43.6110057" lon="3.8789649"/>
+  <node id="889433610" lat="43.6123112" lon="3.8769629"/>
+  <node id="889434387" lat="43.6122949" lon="3.8769061"/>
+  <node id="889434413" lat="43.6109467" lon="3.8789803"/>
+  <node id="889434633" lat="43.6114691" lon="3.8785628"/>
+  <node id="889434689" lat="43.6121711" lon="3.8785334"/>
+  <node id="889435023" lat="43.6110256" lon="3.8786220"/>
+  <node id="889435417" lat="43.6123324" lon="3.8769147"/>
+  <node id="889435858" lat="43.6110687" lon="3.8786532"/>
+  <node id="889435995" lat="43.6114896" lon="3.8785218"/>
+  <node id="889437631" lat="43.6123160" lon="3.8769450"/>
+  <node id="889437950" lat="43.6109314" lon="3.8786368"/>
+  <node id="889438188" lat="43.6109988" lon="3.8788076"/>
+  <node id="889438525" lat="43.6109888" lon="3.8788254"/>
+  <node id="889439010" lat="43.6110451" lon="3.8787193"/>
+  <node id="889439362" lat="43.6120830" lon="3.8785006"/>
+  <node id="889439883" lat="43.6123210" lon="3.8769748"/>
+  <node id="889439933" lat="43.6121242" lon="3.8786243"/>
+  <node id="889439974" lat="43.6115668" lon="3.8786999"/>
+  <node id="889440272" lat="43.6123313" lon="3.8769120"/>
+  <node id="889440733" lat="43.6109561" lon="3.8787953"/>
+  <node id="889441273" lat="43.6115844" lon="3.8786696"/>
+  <node id="889442377" lat="43.6114547" lon="3.8785500"/>
+  <node id="889443356" lat="43.6115920" lon="3.8787236"/>
+  <node id="889444376" lat="43.6123072" lon="3.8768838"/>
+  <node id="889444806" lat="43.6114724" lon="3.8785062"/>
+  <node id="889445632" lat="43.6119277" lon="3.8784867"/>
+  <node id="889445658" lat="43.6116172" lon="3.8786799"/>
+  <node id="889445749" lat="43.6123490" lon="3.8769347"/>
+  <node id="889447117" lat="43.6123078" lon="3.8769557"/>
+  <node id="890162958" lat="43.6107132" lon="3.8679108"/>
+  <node id="890163311" lat="43.6106558" lon="3.8679433"/>
+  <node id="890163580" lat="43.6107668" lon="3.8680841"/>
+  <node id="890163659" lat="43.6107218" lon="3.8680727"/>
+  <node id="890165839" lat="43.6107320" lon="3.8681025"/>
+  <node id="894548409" lat="43.6125458" lon="3.8699937"/>
+  <node id="894548472" lat="43.6123442" lon="3.8699980"/>
+  <node id="894554779" lat="43.6125452" lon="3.8700799"/>
+  <node id="894557404" lat="43.6124731" lon="3.8704509"/>
+  <node id="894558970" lat="43.6123409" lon="3.8700527"/>
+  <node id="894559790" lat="43.6124374" lon="3.8704360"/>
+  <node id="894559956" lat="43.6125439" lon="3.8700251"/>
+  <node id="894559989" lat="43.6125496" lon="3.8700252"/>
+  <node id="894562001" lat="43.6124279" lon="3.8700090"/>
+  <node id="894562712" lat="43.6124524" lon="3.8703634"/>
+  <node id="894563938" lat="43.6124299" lon="3.8699785"/>
+  <node id="894564916" lat="43.6124881" lon="3.8703774"/>
+  <node id="1590061592" lat="43.6106958" lon="3.8785887"/>
+  <node id="1590061594" lat="43.6107161" lon="3.8786337"/>
+  <node id="2228674691" lat="43.6107196" lon="3.8788467"/>
+  <node id="2228674694" lat="43.6107985" lon="3.8786749"/>
+  <node id="2228674707" lat="43.6108494" lon="3.8786187"/>
+  <node id="2228674711" lat="43.6106705" lon="3.8787539"/>
+  <node id="2228674720" lat="43.6106934" lon="3.8788551"/>
+  <node id="2589000591" lat="43.6106921" lon="3.8787400"/>
+  <node id="2589000592" lat="43.6107303" lon="3.8787228"/>
+  <node id="2589000593" lat="43.6107350" lon="3.8785330"/>
+  <node id="2589000596" lat="43.6107589" lon="3.8787000"/>
+  <node id="2589000597" lat="43.6107732" lon="3.8785830"/>
+  <node id="2589000598" lat="43.6107783" lon="3.8785768"/>
+  <node id="2589000602" lat="43.6108277" lon="3.8786478"/>
+  <node id="5747890372" lat="43.6108931" lon="3.8787241"/>
+  <node id="5747890373" lat="43.6109118" lon="3.8786957"/>
+  <node id="5747890374" lat="43.6109139" lon="3.8786882"/>
+  <node id="5747890376" lat="43.6107810" lon="3.8785738"/>
+  <node id="5747890377" lat="43.6107774" lon="3.8785655"/>
+  <node id="5747890378" lat="43.6107740" lon="3.8785811"/>
+  <node id="6415240091" lat="43.6107595" lon="3.8680604">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="source" v="Montpellier Mediterranée Métropole 2018-11-19"/>
+  </node>
+  <node id="6987083439" lat="43.6124477" lon="3.8703863">
+    <tag k="access" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="highway" v="elevator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="0;-1;-2;-3"/>
+  </node>
+  <node id="6987083440" lat="43.6124427" lon="3.8704103">
+    <tag k="access" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="highway" v="elevator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="0;-1;-2;-3"/>
+  </node>
+  <way id="75263952">
+    <nd ref="888835641"/>
+    <nd ref="888834109"/>
+    <nd ref="888834434"/>
+    <nd ref="888835875"/>
+    <nd ref="888835641"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75264017">
+    <nd ref="888832839"/>
+    <nd ref="888833686"/>
+    <nd ref="888836280"/>
+    <nd ref="888832788"/>
+    <nd ref="888832839"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75264123">
+    <nd ref="888836548"/>
+    <nd ref="888835279"/>
+    <nd ref="888834498"/>
+    <nd ref="888835251"/>
+    <nd ref="888837111"/>
+    <nd ref="888831734"/>
+    <nd ref="888836707"/>
+    <nd ref="888836394"/>
+    <nd ref="888835281"/>
+    <nd ref="888836548"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75264193">
+    <nd ref="888833387"/>
+    <nd ref="888833712"/>
+    <nd ref="888835883"/>
+    <nd ref="888836309"/>
+    <nd ref="888833387"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75278702">
+    <nd ref="889013500"/>
+    <nd ref="888988698"/>
+    <nd ref="889013306"/>
+    <nd ref="889010421"/>
+    <nd ref="888996350"/>
+    <nd ref="889013500"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75278806">
+    <nd ref="888990701"/>
+    <nd ref="888999170"/>
+    <nd ref="888998112"/>
+    <nd ref="888991487"/>
+    <nd ref="888993038"/>
+    <nd ref="888990701"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75279075">
+    <nd ref="889009274"/>
+    <nd ref="888993009"/>
+    <nd ref="889000435"/>
+    <nd ref="889007787"/>
+    <nd ref="889009274"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75280025">
+    <nd ref="889014489"/>
+    <nd ref="888993646"/>
+    <nd ref="888994911"/>
+    <nd ref="889001852"/>
+    <nd ref="889014489"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75281111">
+    <nd ref="888994723"/>
+    <nd ref="888988566"/>
+    <nd ref="889002167"/>
+    <nd ref="889000485"/>
+    <nd ref="888994723"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75319941">
+    <nd ref="889421328"/>
+    <nd ref="889426499"/>
+    <nd ref="889440733"/>
+    <nd ref="889419436"/>
+    <nd ref="889438188"/>
+    <nd ref="889438525"/>
+    <nd ref="889430419"/>
+    <nd ref="889434413"/>
+    <nd ref="889421328"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75320224">
+    <nd ref="889444376"/>
+    <nd ref="889440272"/>
+    <nd ref="889435417"/>
+    <nd ref="889445749"/>
+    <nd ref="889439883"/>
+    <nd ref="889433610"/>
+    <nd ref="889447117"/>
+    <nd ref="889437631"/>
+    <nd ref="889434387"/>
+    <nd ref="889444376"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75320245">
+    <nd ref="889427162"/>
+    <nd ref="889445632"/>
+    <nd ref="889418739"/>
+    <nd ref="889428268"/>
+    <nd ref="889427162"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75320294">
+    <nd ref="889439362"/>
+    <nd ref="889426412"/>
+    <nd ref="889415955"/>
+    <nd ref="889434689"/>
+    <nd ref="889420409"/>
+    <nd ref="889439933"/>
+    <nd ref="889428039"/>
+    <nd ref="889439362"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75320348">
+    <nd ref="889444806"/>
+    <nd ref="889435995"/>
+    <nd ref="889434633"/>
+    <nd ref="889442377"/>
+    <nd ref="889444806"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75320567">
+    <nd ref="889441273"/>
+    <nd ref="889418543"/>
+    <nd ref="889445658"/>
+    <nd ref="889443356"/>
+    <nd ref="889439974"/>
+    <nd ref="889441273"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75320580">
+    <nd ref="889419919"/>
+    <nd ref="889435023"/>
+    <nd ref="889435858"/>
+    <nd ref="889439010"/>
+    <nd ref="889419919"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="75384194">
+    <nd ref="890162958"/>
+    <nd ref="890163311"/>
+    <nd ref="890163659"/>
+    <nd ref="890165839"/>
+    <nd ref="890163580"/>
+    <nd ref="6415240091"/>
+    <nd ref="890162958"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="height" v="4"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Generale des Impots - Cadastre. Mise a jour : 2019"/>
+  </way>
+  <way id="213117912">
+    <nd ref="2228674691"/>
+    <nd ref="889415376"/>
+    <nd ref="5747890372"/>
+    <nd ref="5747890373"/>
+    <nd ref="5747890374"/>
+    <nd ref="2228674707"/>
+    <nd ref="2589000602"/>
+    <nd ref="2228674694"/>
+    <nd ref="2589000596"/>
+    <nd ref="2589000592"/>
+    <nd ref="2589000591"/>
+    <nd ref="2228674711"/>
+    <nd ref="2228674720"/>
+    <nd ref="2228674691"/>
+    <tag k="height" v="18"/>
+  </way>
+  <way id="252880457">
+    <nd ref="889416655"/>
+    <nd ref="5747890377"/>
+    <nd ref="5747890376"/>
+    <nd ref="2589000598"/>
+    <nd ref="2589000602"/>
+    <nd ref="2228674707"/>
+    <nd ref="889417922"/>
+    <nd ref="889416655"/>
+    <tag k="height" v="15"/>
+  </way>
+  <way id="252880460">
+    <nd ref="889417922"/>
+    <nd ref="889419326"/>
+    <nd ref="889437950"/>
+    <nd ref="5747890374"/>
+    <nd ref="2228674707"/>
+    <nd ref="889417922"/>
+    <tag k="height" v="18"/>
+  </way>
+  <way id="252880466">
+    <nd ref="2589000593"/>
+    <nd ref="1590061592"/>
+    <nd ref="1590061594"/>
+    <nd ref="2589000596"/>
+    <nd ref="2228674694"/>
+    <nd ref="2589000602"/>
+    <nd ref="2589000598"/>
+    <nd ref="5747890378"/>
+    <nd ref="2589000597"/>
+    <nd ref="2589000593"/>
+    <tag k="height" v="16"/>
+  </way>
+  <way id="435441172">
+    <nd ref="894564916"/>
+    <nd ref="894557404"/>
+    <nd ref="894559790"/>
+    <nd ref="6987083440"/>
+    <nd ref="6987083439"/>
+    <nd ref="894562712"/>
+    <nd ref="894564916"/>
+    <tag k="maxspeed" v="30"/>
+  </way>
+  <way id="435441173">
+    <nd ref="894548409"/>
+    <nd ref="894559956"/>
+    <nd ref="894559989"/>
+    <nd ref="894554779"/>
+    <nd ref="894558970"/>
+    <nd ref="894548472"/>
+    <nd ref="894562001"/>
+    <nd ref="894563938"/>
+    <nd ref="894548409"/>
+    <tag k="maxspeed" v="30"/>
+  </way>
+
+</osm>
